@@ -5,7 +5,7 @@ description:        "I have over 8 years of IT experience working in all aspects
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/self.gif'
-background:         'assets/img/coffejournal.jpeg'
+background:         'assets/img/coffeejournal.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://pattertj.github.io
