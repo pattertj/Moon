@@ -4,7 +4,7 @@ bio:                'Engineering Manager | Techie | Volunteer'
 description:        "I have over 8 years of IT experience working in all aspects of Application Development. Currently, I work for C.H. Robinson as an IT Manager where I lead multiple development teams."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/self.gif'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
