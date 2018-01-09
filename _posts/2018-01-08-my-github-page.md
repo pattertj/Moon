@@ -8,4 +8,4 @@ tag:
 comments: true
 ---
 
-Check it out! https://github.com/pattertj/pattertj.github.io
+Check it out! [https://github.com/pattertj/pattertj.github.io](https://github.com/pattertj/pattertj.github.io)
