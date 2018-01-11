@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "My First Public PR"
+date:   2018-01-10
+excerpt: "It might sounds weird, but I've never made a public PR, until now."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- GitHub
+- Engineering
+- Hubot
+
 comments: true
 ---
 
