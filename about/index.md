@@ -6,14 +6,6 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://www.linkedin.com/in/tylerpatterson/"><b>Tyler</b></a> is not a minimal, one column jekyll theme.</center>
+# <center>A few fun facts about myself</center>
 
-## Features
-* People-Focused Management
-* Strong Work Ethic
-* GitHub integration
-* Powered by Coffee
-
-## Getting Started
-
-To learn how to work with Tyler and use skills check out the [Setup Guide](https://www.linkedin.com/in/tylerpatterson/) for more information.
+<center>I love EDM music. I have 3 cats, Milton, Winston, and Ivan. I don't like IPA's. I watch more video games than I play. I'm obsessed with Home Automation and 3D Printing.</center>
