@@ -12,7 +12,7 @@ comments: false
 
 # <center>What I do</center>
 
-<center>I am an Engineering Manager at <a href="https://www.chrobinson.com/">C.H. Robinson</a>, Co-Chair Advisor to the <a href="https://www.uwec.edu/academics/college-business/departments-programs/information-systems/">UW-Eau Claire IS Program</a>, Co-Founder of <a href="https://www.meetup.com/AGILE-TWIN-CITIES/">Agile Twin Cities</a></center>, and aspiring Public Speaker.
+<center>I am an Engineering Manager at <a href="https://www.chrobinson.com/">C.H. Robinson</a>, Co-Chair Advisor to the <a href="https://www.uwec.edu/academics/college-business/departments-programs/information-systems/">UW-Eau Claire IS Program</a>, Co-Founder of <a href="https://www.meetup.com/AGILE-TWIN-CITIES/">Agile Twin Cities</a>, and aspiring Public Speaker.</center>
 
 # <center>Where I'm from</center>
 
