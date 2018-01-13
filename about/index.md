@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tyler Patterson
-tags: [about, Jekyll, theme, moon]
+tags: 
 date: 2016-03-21
 comments: false
 ---
@@ -12,7 +12,7 @@ comments: false
 
 # <center>What I do</center>
 
-<center>Engineering Management. I believe leading is about the example you set and not the words you say. I champion people and culture for IT organizations.</center>
+<center>I am an Engineering Manager at <a href="https://www.chrobinson.com/">C.H. Robinson</a>. Advisor to the <a href="https://www.uwec.edu/academics/college-business/departments-programs/information-systems/">UW-Eau Claire IS Program</a>. Co-Founder of <a href="https://www.meetup.com/AGILE-TWIN-CITIES/">Agile Twin Cities</a></center>
 
 # <center>Where I'm from</center>
 
