@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transitioning People"
+title:  "Transitioning People Successfully"
 date:   2018-01-15
 excerpt: "As a manager, I have realized the transition process can be a time to give your employees a boost, or set them back."
 tag:
