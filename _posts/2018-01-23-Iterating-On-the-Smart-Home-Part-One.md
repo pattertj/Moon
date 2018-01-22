@@ -8,7 +8,6 @@ tag:
 - Smart Home
 - Tech
 comments: true
-feature: assets/img/HASS-PorchLights.PNG
 ---
 
 The other day, as an icebreaker, a facilitator asked me what my biggest obsession is right now. It was an easy question for me. The answer is [Home Assistant](https://home-assistant.io/). Home Assistant is an open-source home automation platform that I run on a Raspberry Pi 3 in my home. At first, I wanted to track a few appliances in my home and control a wifi switch, if for no other reason than to say I could.  This initial dive into Home Automation ended up becoming much more and is now a part of the daily life for my wife and me.
