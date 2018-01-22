@@ -2,7 +2,7 @@
 layout: post
 title:  "Iterating on the Smart Home (Part 1)"
 date:   2018-01-23
-excerpt: "The other day, as an icebreaker, a facilitator asked me what my biggest obsession is right now. It was an easy question for me. The answer is [Home Assistant](https://home-assistant.io/)."
+excerpt: "The other day, as an icebreaker, a facilitator asked me what my biggest obsession is right now. It was an easy question for me. The answer is Home Assistant."
 tag:
 - Home Assistant
 - Smart Home
