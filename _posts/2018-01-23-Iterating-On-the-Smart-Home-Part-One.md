@@ -8,6 +8,7 @@ tag:
 - Smart Home
 - Tech
 comments: true
+feature: assets/img/HASS-PorchLights.PNG
 ---
 
 The other day, as an icebreaker, a facilitator asked me what my biggest obsession is right now. It was an easy question for me. The answer is [Home Assistant](https://home-assistant.io/). Home Assistant is an open-source home automation platform that I run on a Raspberry Pi 3 in my home. At first, I wanted to track a few appliances in my home and control a wifi switch, if for no other reason than to say I could.  This initial dive into Home Automation ended up becoming much more and is now a part of the daily life for my wife and me.
@@ -27,7 +28,7 @@ This led to my current version. I discovered the magic that is Home Assistant. I
         host: !secret hue_ip_address
 ```
 
-![Home Assistant tile for my lights](https://github.com/pattertj/pattertj.github.io/blob/master/assets/img/HASS-PorchLights.PNG)
+![Home Assistant tile for my lights](assets/img/HASS-PorchLights.PNG)
 
 Energized by the quick wins from a few hours of work, I set myself on the next, albeit much larger task. Automating my lights based on my presence near my home. This would require a few things:
 
