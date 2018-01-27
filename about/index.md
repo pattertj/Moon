@@ -9,7 +9,7 @@ comments: false
 # <center>Who</center>
 
 <center>I love EDM music. I have 3 cats, Milton, Winston, and Ivan. I don't like IPA's. I watch more video games than I play. I'm obsessed with Home Automation and 3D Printing.
-<p><p>ESFJ | Achiever, Futuristic, Competition, Strategic, Communication</center>
+<p><p>ESFJ | Achiever, Futuristic, Competition, Strategic, Communication</p></p></center>
 
 # <center>What</center>
 
