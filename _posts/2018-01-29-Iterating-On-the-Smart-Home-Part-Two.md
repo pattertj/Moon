@@ -31,7 +31,7 @@ Initially, I triggered "Home" when I connected to the wifi. This was an easy bit
  	     me: !secret phone_ip
 ```	
 
-> _Throughout my articles on home assistant you will see the !secret <some_tag> notation. This utilizes the secrets.yaml file to abstract away sensitive details and still [post my .yaml files publicly](https://github.com/pattertj/Home-Assistant-Configuration/blob/master/configuration.yaml). It also make administration and configuration simpler through reuse._
+> Throughout my articles on home assistant you will see the !secret <some_tag> notation. This utilizes the secrets.yaml file to abstract away sensitive details and still [post my .yaml files publicly](https://github.com/pattertj/Home-Assistant-Configuration/blob/master/configuration.yaml). It also make administration and configuration simpler through reuse.
 
 However, I ended up with phantom lights as the wifi would connect and drop when my phone slept. Additionally the lights often didn't come on until I was in my porch for a minute or so, usually after I needed them to be on. I knew I needed something more robust and more accurate. Searching the forums led me to [OwnTracks](http://owntracks.org/).
 
