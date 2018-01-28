@@ -42,4 +42,14 @@ Initially, I triggered "Home" when I connected to the wifi. Again, an easy bit o
  	     me: !secret phone_ip
 ```	
 
-However, I ended up with phantom lights as the wifi would connect and drop when my phone slept. Additionally the lights often didn't come on until I was in my porch for a minute or so, usually after I needed them to be on.
+However, I ended up with phantom lights as the wifi would connect and drop when my phone slept. Additionally the lights often didn't come on until I was in my porch for a minute or so, usually after I needed them to be on. I knew I needed something more robust and more accurate. Searching the forums led me to [OwnTracks](http://owntracks.org/).
+
+OwnTracks is an [open-source](https://github.com/owntracks/owntracks) application that allows people to track their location on iOS or Android phones and publish it to a broker. It uses the open [MQTT](http://mqtt.org/) protocol for this communication which is very popular in the Home Assistant community and will the subject of future blog posts. To set up OwnTracks, I had a few new steps:
+
+~~1. Tell the Home Assistant where is Home~~
+2. Tell Home Assistant where I am
+ a. Setup the MQTT Component in Home Assistant
+ b. Setup an MQTT Broker
+ c. Setup OwnTracks in Home Assistant
+ d. Setup OwnTracks on my Phone
+3. Set up the automation for turning the lights on when I get Home
