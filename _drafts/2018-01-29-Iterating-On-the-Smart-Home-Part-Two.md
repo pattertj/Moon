@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Iterating on the Smart Home (Part 2)"
-date:   2018-01-23
-excerpt: ""
+date:   2018-01-29
+excerpt: "With my Raspberry Pi up and running with Hass.io I had three tasks ahead of me to reach porch light nirvana, if such a place were to exist."
 tag:
 - Home Assistant
 - Smart Home
