@@ -27,7 +27,7 @@ This led to my current version. I discovered the magic that is Home Assistant. I
         host: !secret hue_ip_address
 ```
 
-![Home Assistant tile for my lights](https://github.com/pattertj/pattertj.github.io/blob/master/assets/img/HASS-PorchLights.PNG)
+![Home Assistant tile for my lights](/assets/img/HASS-PorchLights.PNG)
 
 Energized by the quick wins from a few hours of work, I set myself on the next, albeit much larger task. Automating my lights based on my presence near my home. This would require a few things:
 
