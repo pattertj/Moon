@@ -74,13 +74,16 @@ There are a number of settings that are configurable for OwnTracks, however this
 
 Finally, I needed to setup OwnTracks on my phone. [OwnTracks.org](http://owntracks.org/) provides links to both the iOS and Android app's. Once installed, there are a few pieces of information to configure.
 
-Using the same Server and Port as before, configure your phone for the same host settings
+Using the same Server and Port as before, configure your phone for the same host settings:
+
 ![Host Setup](/assets/img/SmartHomePart2/host.png)
     
 Within "Authentication",  set up the username and password matching your phone's user account from CloudMQTT. The Device ID and Tracker ID can be anything you want.
+
 ![Identification Setup](/assets/img/SmartHomePart2/identifcation.png)
     
 Within Reporting, make sure "Automatic Location Reporting" is enabled.
+
 ![Reporting Setup](/assets/img/SmartHomePart2/reporting.png)
     
 At this point, your phone should be setup to start broadcasting your location to Cloud MQTT. You can validate this from your CloudMQTT log's where you should see traffic flowing in.
@@ -121,4 +124,8 @@ The Action is a bit more complex, but straightforward. First Home Assistant trig
 
 # Wrap-Up
 
-Overall, this project took me a full weekend with trial-and-error to get running. But through the process I learned a ton about how Home Assistant works and how to configure it. I have built other automations since this one, but this is my far my most frquently used. The conveinance factor is high and it's really sold me on the power of what is possible in home assistant.
+Overall, this project took me a full weekend with trial-and-error to get running. Tackling the work incrementally and iterating on certain portions allowed me to deliver small wins and keep up the momentum on the project. 
+
+Through the process I learned a ton about how Home Assistant works and how to configure it. I have built other automations since this one, but this is my far my most frquently used. The conveinance factor is high and it has really sold me on the power of what is possible in home assistant.
+
+I'm currently working on a Home Assistant based security system utilizing Z-Wave devices that I'll cover in a future post!
